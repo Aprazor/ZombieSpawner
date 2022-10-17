@@ -27,7 +27,7 @@ https://github.com/akshaychaudhari/ZombieSpawner
 
 # Instructions:
 
-#Requirments:
+# Requirments:
 -Metamask account 
 -Node.js 
 -Express
