@@ -55,6 +55,6 @@ once the initialization is done make sure truffle configuration is correct with 
       For the chain ID enter "5777". Then click save.
    
 ## 5. Test Run:
-Run the test using node js you can connect to localhost using 127.0.0.1:5000 make sure you run the 'node server.js'
+Run the test using node js you can connect to localhost using  ```127.0.0.1:5000 ``` make sure you run the 'node server.js'
       
       
