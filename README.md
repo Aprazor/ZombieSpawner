@@ -23,7 +23,7 @@ Prof. Wenlin Han, CSU Fullerton: whan@fullerton.edu
 
 
 ## Project Repo URL
-https://github.com/akshaychaudhari/ZombieSpawner
+https://github.com/Aprazor/ZombieSpawner/
 
 # Instructions:
 
